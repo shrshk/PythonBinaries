@@ -1,0 +1,6 @@
+(base) Shirishs-MacBook-Pro-9:CoderStuff shirish$ go get -v github.com/cdr/coder-cli/coder-sdk@v1.16.1
+go: downloading github.com/cdr/coder-cli v1.16.1
+go get: github.com/cdr/coder-cli@none updating to
+        github.com/cdr/coder-cli@v1.16.1: parsing go.mod:
+        module declares its path as: cdr.dev/coder-cli
+                but was required as: github.com/cdr/coder-cli
